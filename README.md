@@ -20,5 +20,6 @@ If I have more time, I would try to fix the companyevent table to become a many 
 | DELETE      | /api/Stock/{StockId}                  | Delete an existing stock for a given id in all tables                       |
 
 - GET /api/Stock
+![](https://github.com/jamyooes/stockresearchrecord/blob/main/get-api-stock.PNG)
 
 
