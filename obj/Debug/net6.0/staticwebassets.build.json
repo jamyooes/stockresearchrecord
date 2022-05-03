@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sKIKzwlsOZyXBVH6LT/xnCmYfmbaE6045n9zA5W3sYs=",
+  "Source": "stockResearchAPI",
+  "BasePath": "_content/stockResearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
