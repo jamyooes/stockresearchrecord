@@ -19,20 +19,20 @@ If I have more time, I would try to fix the companyevent table to become a many 
 | POST        | /api/Stock                            | Add a new Stock                                                             |
 | DELETE      | /api/Stock/{StockId}                  | Delete an existing stock for a given id in all tables                       |
 
-## GET /api/Stock
+## GET /api/Stock Sample: Response Body
 ![](https://github.com/jamyooes/stockresearchrecord/blob/main/get-api-stock.PNG)
 
-## GET /api/Stock/{StockId}
+## GET /api/Stock/{StockId} Sample: Response Body
 ![](https://github.com/jamyooes/stockresearchrecord/blob/main/get-api-stock-id.PNG)
 
-## GET /api/Stock/{StockId}/research
+## GET /api/Stock/{StockId}/research Sample: Response Body
 ![](https://github.com/jamyooes/stockresearchrecord/blob/main/get-api-stock-id-research.PNG)
 
-## GET /api/Stock/{StockId}/companyevent
+## GET /api/Stock/{StockId}/companyevent Sample: Response Body
 ![](https://github.com/jamyooes/stockresearchrecord/blob/main/get-api-stock-id-companyevent.PNG)
 
-## POST /api/Stock
+## POST /api/Stock Sample: Response Body
 ![](https://github.com/jamyooes/stockresearchrecord/blob/main/post-api-stock.PNG)
 
-## DELETE /api/Stock/{StockId}
+## DELETE /api/Stock/{StockId} Sample: Response Body
 ![](https://github.com/jamyooes/stockresearchrecord/blob/main/delete-api-stock-stockid.PNG)
